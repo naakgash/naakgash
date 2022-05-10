@@ -4,8 +4,8 @@
 
 
 
-  ##### <div align="center"> 📝 I'm currently preparing for the **Kodluyoruz Back-End Web Development Bootcamp** with [patika.dev](https://www.patika.dev).
+  ##### <div align="center"> 📝 I'm currently preparing for the **Kodluyoruz Back-End Web Development Bootcamp** with [patika.dev](https://app.patika.dev/naakgash).
 ##### <div align="center"> 🔭 I'm currently in bootcamp about **OOP with C#** with [techcareer.net](https://www.techcareer.net).
-##### <div align="center"> 🌱 I’m currently learning ***Java, .NET and HTML***.
+##### <div align="center"> 🌱 I’m currently learning ***Java, .NET and Go***.
   
  
